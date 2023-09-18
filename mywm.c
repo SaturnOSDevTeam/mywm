@@ -2,6 +2,7 @@
 #include <X11/Xutil.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include <stdio.h>
 
 Display* dpy;
 Window root;
